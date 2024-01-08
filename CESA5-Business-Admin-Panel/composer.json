@@ -1,0 +1,17 @@
+{
+    "require": {
+        "google/apiclient": "^2.12.1",
+        "mikehaertl/phpwkhtmltopdf": "^2.5",
+        "phpmailer/phpmailer": "^6.8"
+    },
+    "scripts": {
+        "pre-autoload-dump": "Google\\Task\\Composer::cleanup"
+    },
+    "extra": {
+        "google/apiclient-services": [
+            "Drive",
+            "Sheets",
+            "Oauth2"
+        ]
+    }
+}

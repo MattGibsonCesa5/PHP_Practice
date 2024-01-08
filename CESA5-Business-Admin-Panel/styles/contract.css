@@ -1,0 +1,73 @@
+.table-section-header
+{
+    font-weight: 700;
+    border: none !important;
+}
+
+.table-section-label
+{
+    font-style: italic;
+}
+
+.table-section-divider
+{
+    color: #ffffff !important;
+    font-size: 12px;
+}
+
+.table-cell-divider
+{
+    color: #ffffff !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    font-size: 12px;
+    border: 0px solid white !important;
+}
+
+.cell-border
+{
+    border: 1px solid black !important;
+}
+
+.table-cell-fill
+{
+    background-color: #b3b3b3;
+}
+
+.FC-w-30
+{
+    width: 30% !important;
+}
+
+.FC-w-40
+{
+    width: 40% !important;
+}
+
+.FC-w-70
+{
+    width: 70% !important;
+}
+
+.contract-quarter
+{
+    background-color: #ffff00;
+}
+
+.table-center-cell
+{
+    vertical-align: middle;
+    margin: 0;
+    padding: 2px;
+}
+
+html
+{
+    font-family: Arial;
+}
+
+.border-1
+{
+    border-color: #000000 !important;
+    border-width: 1px !important;
+}
